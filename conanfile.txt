@@ -1,0 +1,8 @@
+[requires]
+libpqxx/7.7.4
+libpq/15.4
+boost/1.78.0
+nlohmann_json/3.11.3
+
+[generators]
+cmake_multi
